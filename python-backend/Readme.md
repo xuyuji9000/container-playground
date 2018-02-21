@@ -15,3 +15,8 @@
 1. build docker image: `docker build -t python-backend .`
 
 2. run docker instance: `docker run -it -p 8000:8000 --rm --name python-backend python-backend`
+
+
+# Reference
+
+- [Dockerizing a Python Django Web Application](https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application)
