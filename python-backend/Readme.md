@@ -1,11 +1,14 @@
 
-# Setup Local Environment
+
+# Init a Django project
 
 1. create virtual environment: `virutalenv -p python3 venv`
 
 2. activate environment: `source ./venv/bin/activate`
 
 3. install dependency: `pip3 install -r requirements.txt`
+
+4. init Django project: `django-admin startproject helloworld`
 
 # Setup Dockerized Environment
 
