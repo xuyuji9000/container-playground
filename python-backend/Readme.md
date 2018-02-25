@@ -2,7 +2,7 @@
 
 # Init a Django project
 
-1. create virtual environment: `virutalenv -p python3 venv`
+1. create virtual environment: `virtualenv -p python3 venv`
 
 2. activate environment: `source ./venv/bin/activate`
 
