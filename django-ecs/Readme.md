@@ -19,7 +19,7 @@
 
 # Push Image to ECR(Elastic Container Registery)
 
-1. get ecr login info: `aws ecr get-login --no-include-email --region ap-northeast-2` && login
+1. get ecr login info: `aws ecr get-login --no-include-email --region ap-northeast-2 && login`
 
 2. build image: `docker build -t django-ecs .`
 
