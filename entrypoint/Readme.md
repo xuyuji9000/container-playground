@@ -1,0 +1,2 @@
+- Build image: `docker build -t entrypoint`
+- Run container: `docker run entrypoint hello-world`
